@@ -7,4 +7,4 @@ sum
 	a := 1.
 	b := 2.
 	^ a + b
-	"Should return 3"
+	"!Should return 3"

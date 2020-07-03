@@ -2,12 +2,10 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Log-Tools",
-	"classinstvars" : [
-		"links"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "LogComments",
+	"name" : "LogCommentExamples",
 	"type" : "normal"
 }
